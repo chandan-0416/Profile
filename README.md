@@ -13,4 +13,4 @@ apply my skills and continue learning in a professional setting.
 - Developer Tools: VS Code Editor
 
 🌐Let's Connect:
-chandankushwaha@gmail.com
+chandankushwaha0411@gmail.com
