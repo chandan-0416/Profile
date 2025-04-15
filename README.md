@@ -1,16 +1,18 @@
-Hi, I'm Chandan Kushwaha👋 I'm passionate React Developer in Frontend web development
-and proficient in JavaScript, HTML5, CSS3, Tailwind and Version Control System (Git & GitHub).
-I made academic projects & various personal Projects like Food ordering app, Amazon Clone, Google keep Notes, 
-Animated Thermometer,lightOn-Off and PortFolio using React.js, Where I got deep drive concepts of
-Frontend web Technologies ie Reactjs, JavaScript, HTML, CSS, Tailwind, Web APIs, JSX, Package Manager, 
-Redux, Context APIs and Parcel.
-The Dynamic and fast-paced nature of frontend development has always fascinated me and I'm eager to 
-apply my skills and continue learning in a professional setting.
+Dedicated Web Developer | React.js Developer | Continuous Learner 🚀
+
+Hello ! I'm Chandan Kushwaha, a driven Web Developer with a passion for punctuality, 
+diligence, and continuous learning. I thrive in the dynamic environment of Start-up, 
+where I contribute my expertise to drive innovation and excellence in web development.
+The Dynamic and fast-paced nature of frontend development has always fascinated me and 
+I'm eager to apply my skills and continue learning in a professional setting.
 
 💡TECHNICAL SKILLS
-- Languages: JavaScript, React.js
-- Frameworks/Technologies: React.js, HTML5, CSS3, Package Manager, Tailwind, Bootstrap, Version Control system(Git & GitHub)
-- Developer Tools: VS Code Editor
+- Languages: JavaScript, C++, HTML, CSS
+- Frameworks: React.js, TailwindCSS
+- Developer Tools: Visual Studio Code
+- Soft Skills: Problem-solving, Communication, Collaboration, Analytical Skills
+- Other Skills: Data Structure and Algorithm, API Integration, Testing, Debugging, App Optimization, Redux
+ Toolkit, Git, GitHub
 
 🌐Let's Connect:
 chandankushwaha0411@gmail.com
